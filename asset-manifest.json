@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJourney/static/css/main.0740b95a.css",
+    "main.js": "/ReactJourney/static/js/main.f6fea4fa.js",
+    "index.html": "/ReactJourney/index.html",
+    "main.0740b95a.css.map": "/ReactJourney/static/css/main.0740b95a.css.map",
+    "main.f6fea4fa.js.map": "/ReactJourney/static/js/main.f6fea4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0740b95a.css",
+    "static/js/main.f6fea4fa.js"
+  ]
+}
